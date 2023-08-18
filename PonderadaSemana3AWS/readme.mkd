@@ -1,0 +1,9 @@
+O documento será divido em 6 partes: Introdução, objetivo, método, resultados e conclusão.
+Introdução: Primeiramente precisamos acessar o ambiente da AWS, que deve ser acessado pela aws academmy.
+Primeiramente acessamos a AWS e clicamos em Start Lab:
+![startlab](StartLab.png)
+Confirmação do Lab funcionando:
+![labstarted](LabStarted.png)
+Em seguida, acessamos a AWS:
+![ConsoleHome](ConsoleHome.png)
+
