@@ -3,7 +3,44 @@ Introdução: Primeiramente precisamos acessar o ambiente da AWS, que deve ser a
 Primeiramente acessamos a AWS e clicamos em Start Lab:
 ![startlab](StartLab.png)
 Confirmação do Lab funcionando:
+
 ![labstarted](LabStarted.png)
+
 Em seguida, acessamos a AWS:
 ![ConsoleHome](ConsoleHome.png)
+
+Painel de lançamento de instância:
+![Launch](LaunchingInstancePannel.png)
+
+Lançamento de instância:
+![LaunchIns](Instance_Launched.png)
+
+Sucesso de lançamento de instância:
+![SucessLaunch](Sucess_Instance_launched.png)
+
+Dashboard da instancia:
+![Dashboard](Instance_Dashboard.png)
+
+Sumário da instância:
+![InstanceSum](Instance_Summary.png)
+
+Objetivo:
+O objetivo deste readme é criar uma instância de máquina EC2 na AWS
+
+Método:
+Neste caso não foi utilizado o Putty como recomendado, por outro lado utilizei o SSH pelo terminal. Seguem os registros do console:
+Sudo chmod:
+
+![Console1](Console1.png)
+..
+
+![Console2](Console2.png)
+
+Resultado:
+Instância de máquina EC2 criada na AWS acessada por SSH
+![Console3](Console3.png)
+
+Conclusão:
+Foi possível criar a instância sem utilizar o putty pelo terminal por SSH.
+
 
